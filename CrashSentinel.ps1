@@ -1,7 +1,7 @@
 # PC Crash Sentinel - Monitoring Engine
 # Monitors CPU/GPU temperature, power, and load. Logs to CSV with instant disk flush.
 # Crash-proof: every sample is written immediately so power loss won't corrupt data.
-# https://github.com/user/crash-sentinel
+# https://github.com/dwgx/crash-sentinel
 
 param(
     [string]$ConfigPath = "settings.json",

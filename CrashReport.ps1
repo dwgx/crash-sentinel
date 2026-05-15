@@ -1,6 +1,6 @@
 # PC Crash Sentinel - Diagnostic Report Generator
 # Detects unexpected shutdowns and generates crash analysis reports.
-# https://github.com/user/crash-sentinel
+# https://github.com/dwgx/crash-sentinel
 
 param(
     [string]$ConfigPath = "settings.json",
@@ -292,7 +292,7 @@ $rows
 </ul>
 
 <div class="footer">
-PC Crash Sentinel - <a href="https://github.com/user/crash-sentinel">github.com/user/crash-sentinel</a>
+PC Crash Sentinel - <a href="https://github.com/dwgx/crash-sentinel">github.com/user/crash-sentinel</a>
 </div>
 </div>
 </body>
