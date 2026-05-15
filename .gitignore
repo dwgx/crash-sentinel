@@ -1,0 +1,7 @@
+# Generated logs and reports
+CrashSentinel_*.csv
+reports/CrashReport_*
+
+# Not these
+!README.md
+!LICENSE

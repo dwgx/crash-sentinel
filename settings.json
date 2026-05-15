@@ -1,0 +1,18 @@
+{
+    "monitor": {
+        "interval_seconds": 5,
+        "log_directory": ".",
+        "warn_temp_c": 85,
+        "critical_temp_c": 90,
+        "danger_temp_c": 100
+    },
+    "report": {
+        "format": "both",
+        "output_directory": "./reports",
+        "keep_logs_days": 30
+    },
+    "startup": {
+        "auto_start_monitor": false,
+        "auto_start_report": true
+    }
+}
